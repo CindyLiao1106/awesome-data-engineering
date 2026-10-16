@@ -377,6 +377,7 @@
 - [Data Profiler](https://github.com/capitalone/dataprofiler) - The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy.
 - [YData Profiling](https://docs.profiling.ydata.ai/latest/) - A general-purpose open-source data profiler for high-level analysis of a dataset.
 - [Desbordante](https://github.com/desbordante/desbordante-core) - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
+- [csv-peek](https://github.com/CindyLiao1106/csv-peek) - Terminal CSV/TSV profiler with no dependencies: inferred column type, null rate, unique count, min/median/max or top values, and duplicate-row detection.
 
 
 ## Schema
